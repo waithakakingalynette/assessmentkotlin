@@ -1,10 +1,16 @@
 fun main() {
-   stmt()
-    numbers(12)
+    var string1="I am awesome"
+    var string2="My name is lynette "
+    if (string1.equals(string2)){
+        println(longArrayOf())
+    }else
+        println(shortArrayOf())
     word()
     var names="Gisemba ,Nathalie ,Lynette"
     var names2=names.plus("Pauline, Annet, Eunice")
     println(names2)
+    numbers(12)
+
 
 
 }
